@@ -2,6 +2,6 @@
 '''Python - Variable Annotations'''
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     '''floor'''
     return n
