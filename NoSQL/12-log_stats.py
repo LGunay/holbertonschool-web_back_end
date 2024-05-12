@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''py function '''
-import pymongo
+from pymongo import MongoClient
 
 
 if __name__ == "__main__":
