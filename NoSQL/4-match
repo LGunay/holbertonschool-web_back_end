@@ -1,2 +1,2 @@
 //match
-db.school.fing({name: "Holberton school"})
+db.school.fing({"name": "Holberton school"})
